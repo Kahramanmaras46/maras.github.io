@@ -1,0 +1,139 @@
+* {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/* ANASAYFA */
+
+p {
+  font-size: 20px;
+}
+
+/* HAKKINDA */
+
+#hobiler-baslik {
+  color: #273e47;
+}
+
+/* OZGECMİS */
+
+.foto {
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+.cv .list-group-item {
+  background-color: #343a40;
+
+  color: #f8f9fa;
+}
+
+/* Tarhana */
+
+.tarhana {
+  border: 1px solid #343a40;
+}
+.tarhana2 {
+  border: 1px solid #343a40;
+}
+
+.tarhana3 {
+  border: 1px solid #343a40;
+}
+
+.ptable table {
+  margin: 30px auto;
+  border-collapse: collapse;
+}
+
+.ptable {
+  margin: 0px 0% 30px 0%;
+}
+
+th,
+td {
+  padding: 10px;
+  background-color: #343a40;
+}
+
+th {
+  background-color: black;
+  color: #ffe221;
+}
+
+.headin {
+  text-align: center;
+  text-decoration: none;
+  color: #343a40;
+  margin: 30px;
+  display: block;
+}
+
+.wpos {
+  text-align: center;
+}
+
+.wpos td {
+  color: #77ff21;
+}
+
+.pos {
+  text-align: center;
+}
+
+.pos td {
+  color: yellow;
+}
+
+table .col {
+  border-bottom: 1px solid #ffffff;
+}
+
+.wpos:hover {
+  background-color: yellow;
+}
+
+.wpos:hover td {
+  color: #000000;
+}
+
+.pos:hover {
+  background-color: #ff7b21;
+}
+
+.pos:hover td {
+  color: #000000;
+}
+
+.npos {
+  text-align: center;
+}
+
+.npos td {
+  color: red;
+}
+.npos:hover {
+  background-color: red;
+}
+
+.npos:hover td {
+  color: #000000;
+}
+
+.wikitable {
+  text-align: center;
+}
+
+.wikitable td {
+  color: #77ff21;
+}
+
+.wikitable:hover {
+  background-color: yellow;
+}
+
+.wikitabe:hover td {
+  color: #000000;
+}
+
+
+
